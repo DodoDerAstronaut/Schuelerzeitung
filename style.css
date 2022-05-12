@@ -1,0 +1,70 @@
+/*Basisfestlegungen*/
+body {
+    font-family: "Newsreader", serif;
+    font-size: 20px;
+    background-color: #212529;
+  }
+
+
+  /* Navigation */
+li{
+
+    padding: 3px;
+
+}
+
+.navbar-brand{
+
+    margin-top: 5px;
+
+}
+
+/*Farbe beim Drueberfahren*/
+.nav-link:hover {
+    color: rgb(8, 185, 126) !important;
+  }
+
+.dropdown-menu{
+
+  background-color: #272c31;
+
+}
+.dropdown-item{
+
+  color: white;
+
+}
+
+.Link{
+
+  list-style: none;
+  text-decoration: none;
+  font-family: "Newsreader", serif;
+  font-size: x-large;
+
+}
+
+.dropdowm-divider{
+
+  margin-top: 0;
+
+}
+
+  /*Text*/
+
+.Text{
+
+  text-align: center;
+
+}
+  
+  /* Footer */
+.footer {
+    font-family: "Newsreader", serif;
+    font-size: 1rem;
+    text-align: center;
+    border-top: 1px solid #888;
+    list-style: none;
+    text-decoration: none;
+  }
+  
